@@ -7,3 +7,5 @@ title: Home
 Talk is cheap. Show me the code.
 
 屁话少说，放码过来。
+
+来自content/_index.md
